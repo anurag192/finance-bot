@@ -1,7 +1,7 @@
 # 🪨  News Research Tool
 
 This is a user-friendly and intelligent news research assistant designed to simplify the process of extracting financial and stock market insights from online articles.  
-It combines the power of LangChain, OpenAI embeddings, and FAISS to deliver fast and accurate answers to user queries based on real-time article content.
+It combines the power of LangChain, GoogleGenerativeAI embeddings, and FAISS to deliver fast and accurate answers to user queries based on real-time article content.
 
 ---
 
