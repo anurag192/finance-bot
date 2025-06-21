@@ -76,10 +76,5 @@ finance project/
 
 
 
-## 💡 Notes
-
-- Ensure your OpenAI API key is valid and has API access to embedding models.
-- FAISS index will be reused across sessions to speed up retrieval.
-- Restarting the app will still retain the index if `faiss_store_openai.pkl` exists.
 
 
